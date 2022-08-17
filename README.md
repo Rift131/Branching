@@ -12,4 +12,8 @@
 
 * git status - show status of current working directory
 * git log - list commit history
-* 'git log --oneline' - list commit history (compact)
+* git log --oneline - list commit history (compact commit hash code)
+* git branch - list local branches, places asterisk next to current branch
+* git branch nameYouWant - creates a new branch to work on, sequestered from main
+* git checkout nameYouPicked - switches the branch you're working on. Commits will not be put on the main branch
+*

@@ -12,4 +12,6 @@ Categories of git commands and practice with branching.
 
 * git status - show status of current working directory
 * git log - list commit history
-* 'git log --oneline' - list commit history (compact)
+* git log --oneline - list commit history (compact)
+* git congig -l - list local git configuration settings
+* git config --help -list all the commands you can do

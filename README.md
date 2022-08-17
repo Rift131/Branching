@@ -1,6 +1,7 @@
 ## Git and Git Branching Cheat Sheet
 
-Categories of git commands and practice with branching.
+Categories of git commands and practice with branching. Practice with merging and merge conflicts.
+
 ### Basic Commands
 * git init - initialize current directory with repository
 
@@ -10,6 +11,7 @@ Categories of git commands and practice with branching.
 
 * git commit -m"message here" - commit staged changes to local repository
 
+### Info Commands
 * git status - show status of current working directory
 * git log - list commit history
 * git log --oneline - list commit history (compact)

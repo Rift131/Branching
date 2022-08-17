@@ -16,4 +16,5 @@
 * git branch - list local branches, places asterisk next to current branch
 * git branch nameYouWant - creates a new branch to work on, sequestered from main
 * git checkout nameYouPicked - switches the branch you're working on. Commits will not be put on the main branch
+* git checkout -b otherBranch - switch to branch (otherBranch), creating it if it doesn't already exist.
 *

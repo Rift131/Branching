@@ -19,7 +19,7 @@
 * git branch nameYouWant - creates a new branch to work on, sequestered from main
 * git checkout nameYouPicked - switches the branch you're working on. Commits will not be put on the main branch
 * git checkout -b otherBranch - switch to branch (otherBranch), creating it if it doesn't already exist.
-*
+*  git push origin kenBranch - pushes the update from the specific, non main, branch to GitHub
 
 ### Other Commands
 * git help - list git subcommands and options

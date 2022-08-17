@@ -21,5 +21,8 @@
 * git checkout -b otherBranch - switch to branch (otherBranch), creating it if it doesn't already exist.
 *  git push origin kenBranch - pushes the update from the specific, non main, branch to GitHub
 
+### Collaborating on GitHub
+*
+
 ### Other Commands
 * git help - list git subcommands and options
